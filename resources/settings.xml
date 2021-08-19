@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<setting id="startup_addon" type="addon" label="32002" default="" addontype="xbmc.python.script"  multiselect="false" />
+	<setting id="test_addon" type="action" label="32012" action="RunAddon(service.autoexec.addon)" visible="!eq(-1,)" />
+</settings>
