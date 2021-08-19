@@ -1,0 +1,3 @@
+v1.0.0  (2021-07-26)
+- Initial release. Slightly modified version of https://kodi.wiki/view/Autoexec_Service
+
