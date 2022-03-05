@@ -6,8 +6,10 @@
 	<extension point="xbmc.service" language="en" library="addon.py"/>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Automatically run a specified Addon when Kodi starts.</summary>
+		<summary lang="cs_CZ">Automatické spuštění zadaného doplňku při spuštění Kodi.</summary>
 		<summary lang="it_IT">Avvia automaticamente un Addon all'avvio di Kodi.</summary>
 		<description lang="en_GB">The Autoexec Service will automatically be run on Kodi startup. It can start only Script Addon</description>
+		<description lang="cs_CZ">Služba Autoexec se automaticky spustí při spuštění Kodi. Může se spustit pouze doplněk Script</description>
 		<description lang="it_IT">Il Servizio di Autoavvio parte automaticamente all'avvio di Kodi. Può avviare solo Addon di tipo Script</description>
 		<platform>all</platform>
 		<license>GPL v3</license>
