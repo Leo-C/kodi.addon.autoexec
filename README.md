@@ -19,11 +19,13 @@ If you want disable automatic startup of selected Addon, use *Disable* Button in
 ## Compatibility
 
 This Addon was tested on following platfoms (see branch compatibility on GitHub):
-|   Kodi version  |       Distribution       |             HW             | Works | Branch | Notes |
-| :-------------: | :----------------------: | :------------------------: | :--: | :----: | :---- |
-| Kripton - 17.6 | LibreELEC-RPi.arm-8.2.5  | RasPi v1.2 model B+        |   Y   |  py2   |       |
-| Leia - 18.9    | LibreELEC-RPi.arm-9.2.6  | RasPi v1.2 model B+        |   Y   |  py2   |       |
-| Matrix - 19.1  | LibreELEC-RPi.arm-9.97.1 | RasPi v4 model B with 4GB  |   Y   |  py3   |       |
+|   Kodi version  |       Distribution        |             HW             | Works | Branch | Notes |
+| :-------------: | :-----------------------: | :------------------------: | :---: | :----: | :---- |
+| Kripton - 17.6  | LibreELEC-RPi2.arm-8.2.5  | RasPi v1.2 model B+        |   Y   |  py2   |       |
+| Leia - 18.9     | LibreELEC-RPi2.arm-9.2.6  | RasPi v1.2 model B+        |   Y   |  py2   |       |
+| Matrix - 19.5   | LibreELEC-RPi4.arm-10.0.4 | RasPi v4 model B with 4GB  |   Y   |  py3   |       |
+| Nexus - 20.3    | LibreELEC-RPi4.arm-11.0.6 | RasPi v4 model B with 4GB  |   Y   |  py3   |       |
+| Nexus - 20.3    | LibreELEC-RPi5.arm-11.0.6 | RasPi v5 with 4GB          |   Y   |  py3   |       |
 
 
 If anyone tests this Addon on other HW platforms / SW distribution, I'll insert into list
@@ -36,7 +38,7 @@ To do so:
 1. download this github repository as .zip
 2. transfer file on host with Kodi (via network, USB memory, etc.)
 3. in addon section choose "Install from .zip file" and browse file location
-   (remember - if not asked - to enable installation of .zip addon from Setings -> Addon -> unknown source)
+   (remember - if not asked - to enable installation of .zip addon from Settings -> Addon -> unknown source)
 
 
 ## Localization
